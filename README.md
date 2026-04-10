@@ -1,7 +1,7 @@
 # unieuro-concorrente-202601-atividade5
-Testar a solução MPI construindo relatório de avaliação de performance para 2, 4, 8, 12 processos.
+####Testar a solução MPI construindo relatório de avaliação de performance para 2, 4, 8, 12 processos.
 
-# unieuro-concorrente-202601-atividade5
+
 Relatório da atividade de Programação Concorrente e Distribuída 05  
 **Disciplina:** PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA  
 **Aluno(s):** Filipe Ferreira  
